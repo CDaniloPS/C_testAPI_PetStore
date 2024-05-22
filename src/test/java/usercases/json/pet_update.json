@@ -1,0 +1,18 @@
+{
+  "id": 17142122,
+  "category": {
+    "id": 0,
+    "name": "string"
+  },
+  "name": "Oso de Peluche",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "string"
+    }
+  ],
+  "status": "sold"
+}
